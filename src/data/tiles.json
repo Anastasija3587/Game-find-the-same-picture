@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "color": "green",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 2,
+    "color": "green",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 3,
+    "color": "yellow",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 4,
+    "color": "yellow",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 5,
+    "color": "pink",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 6,
+    "color": "pink",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 7,
+    "color": "grey",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 8,
+    "color": "grey",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 9,
+    "color": "black",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 10,
+    "color": "black",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 11,
+    "color": "blue",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 12,
+    "color": "blue",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 13,
+    "color": "red",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 14,
+    "color": "red",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 15,
+    "color": "purple",
+    "selected": false,
+    "done": false
+  },
+  {
+    "id": 16,
+    "color": "purple",
+    "selected": false,
+    "done": false
+  }
+]

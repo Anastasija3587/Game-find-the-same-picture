@@ -1,0 +1,32 @@
+.list {
+  width: 748px;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.item {
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.tile {
+  width: 150px;
+  height: 150px;
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.title {
+  text-align: center;
+}

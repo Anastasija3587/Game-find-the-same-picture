@@ -1,0 +1,6 @@
+export default {
+  CHANGE_SELECTED: 'game/CHANGE_SELECTED',
+  CLOSE_SELECTED: 'game/CLOSE_SELECTED',
+  DONE: 'game/DONE',
+  RELOAD_TILES: 'game/RELOAD_TILES',
+};

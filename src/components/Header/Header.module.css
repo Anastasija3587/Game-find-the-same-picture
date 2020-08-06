@@ -1,0 +1,23 @@
+.head {
+  display: flex;
+  margin: 2% auto;
+  width: 748px;
+  justify-content: space-around;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.btn {
+  border: none;
+  width: 61px;
+  height: 61px;
+  cursor: pointer;
+  background: none;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
