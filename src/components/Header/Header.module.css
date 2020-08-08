@@ -8,16 +8,5 @@
 .title {
   font-size: 25px;
   font-weight: bold;
-}
-
-.btn {
-  border: none;
-  width: 61px;
-  height: 61px;
-  cursor: pointer;
-  background: none;
-}
-
-.btn:hover {
-  transform: scale(1.1);
+  margin: 0;
 }

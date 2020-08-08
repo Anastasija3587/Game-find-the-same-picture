@@ -6,7 +6,6 @@ import reducer from './game/reducers';
 const persistConfig = {
   key: 'game',
   storage,
-  whitelist: ['tiles'],
 };
 
 const rootReducer = combineReducers({

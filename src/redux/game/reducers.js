@@ -23,6 +23,16 @@ const tiles = (state = initialState, { type, payload }) => {
   }
 };
 
+const selectedTile = (state = {}, { type, payload }) => {
+  switch (type) {
+    case types.SELECTED_TILE:
+      return payload.tile;
+    default:
+      return state;
+  }
+};
+
 export default combineReducers({
   tiles,
+  selectedTile,
 });

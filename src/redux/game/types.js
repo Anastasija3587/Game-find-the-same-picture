@@ -3,4 +3,5 @@ export default {
   CLOSE_SELECTED: 'game/CLOSE_SELECTED',
   DONE: 'game/DONE',
   RELOAD_TILES: 'game/RELOAD_TILES',
+  SELECTED_TILE: 'game/SELECTED_TILE',
 };

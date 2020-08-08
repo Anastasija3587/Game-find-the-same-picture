@@ -21,3 +21,10 @@ export const reload = tiles => ({
     tiles,
   },
 });
+
+export const selectedTile = tile => ({
+  type: types.SELECTED_TILE,
+  payload: {
+    tile,
+  },
+});

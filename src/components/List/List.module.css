@@ -26,21 +26,3 @@
 .hidden {
   opacity: 0;
 }
-
-.title {
-  text-align: center;
-}
-
-.btnReload {
-  border: none;
-  width: 61px;
-  height: 61px;
-  cursor: pointer;
-  background: none;
-  display: block;
-  margin: 0 auto 20px;
-}
-
-.btnReload:hover {
-  transform: scale(1.1);
-}
