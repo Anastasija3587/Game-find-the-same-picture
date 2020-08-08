@@ -1,5 +1,5 @@
 .list {
-  width: 748px;
+  width: 550px;
   margin: auto;
   padding: 0;
   display: flex;
@@ -13,8 +13,8 @@
 }
 
 .tile {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
 
 .btn {
