@@ -1,1 +1,1 @@
-[I'm link! Let's play;)] (https://codesandbox.io/s/aged-tdd-v1uj0)
+Let's play! https://codesandbox.io/s/aged-tdd-v1uj0
